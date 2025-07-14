@@ -24,7 +24,7 @@ This is a voice-controlled virtual assistant built using Python. It can:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jarvis-voice-assistant.git
+git clone https://github.com/Aegon87/jarvis-voice-assistant.git
 cd jarvis-voice-assistant
 ```
 
