@@ -63,7 +63,7 @@ python main.py
 
 Then say "Jarvis" to activate the assistant and give further voice commands like:
 
-"Open Google"
+"Open Facebook"
 
 "Play [song name]"
 
